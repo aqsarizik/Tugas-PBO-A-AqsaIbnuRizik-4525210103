@@ -14,7 +14,7 @@ Berisi hasil konversi program dari Java ke PHP pada Pertemuan 01.
 
 ### Screenshot Output
 
-![01.png](screenshots/01.png)
+![Screenshot Pertemuan 01](01.png)
 
 ---
 
@@ -24,7 +24,7 @@ Berisi hasil konversi program dari Java ke PHP pada Pertemuan 02.
 
 ### Screenshot Output
 
-![02.png](screenshots/02.png)
+![Screenshot Pertemuan 02](02.png)
 
 ---
 
@@ -34,7 +34,7 @@ Berisi hasil konversi program dari Java ke PHP pada Pertemuan 03.
 
 ### Screenshot Output
 
-![03.png](screenshots/03.png)
+![Screenshot Pertemuan 03](03.png)
 
 ---
 
@@ -44,7 +44,7 @@ Berisi hasil konversi program dari Java ke PHP pada Pertemuan 04.
 
 ### Screenshot Output
 
-![04.png](screenshots/04.png)
+![Screenshot Pertemuan 04](04.png)
 
 ---
 
@@ -54,7 +54,7 @@ Berisi hasil konversi program dari Java ke PHP pada Pertemuan 05.
 
 ### Screenshot Output
 
-![05.png](screenshots/05.png)
+![Screenshot Pertemuan 05](05.png)
 
 ---
 
@@ -63,8 +63,7 @@ Berisi hasil konversi program dari Java ke PHP pada Pertemuan 05.
 Berisi hasil konversi program dari Java ke PHP pada Pertemuan 06.
 
 ### Screenshot Output
-
-![06.png](screenshots/06.png)
+![Screenshot Pertemuan 06](06.png)
 
 ---
 
