@@ -14,7 +14,7 @@ Berisi hasil konversi program dari Java ke PHP pada Pertemuan 01.
 
 ### Screenshot Output
 
-![Screenshot Pertemuan 01](01.png)
+![Screenshot Pertemuan 01]((https://github.com/aqsarizik/Tugas-PBO-A-AqsaIbnuRizik-4525210103/blob/main/tugas%201/screenshots/01.png)?raw=true)
 
 ---
 
@@ -24,7 +24,7 @@ Berisi hasil konversi program dari Java ke PHP pada Pertemuan 02.
 
 ### Screenshot Output
 
-![Screenshot Pertemuan 02](02.png)
+![Screenshot Pertemuan 02](https://github.com/aqsarizik/Tugas-PBO-A-AqsaIbnuRizik-4525210103/blob/main/tugas%201/screenshots/02.png?raw=true)
 
 ---
 
@@ -34,7 +34,7 @@ Berisi hasil konversi program dari Java ke PHP pada Pertemuan 03.
 
 ### Screenshot Output
 
-![Screenshot Pertemuan 03](03.png)
+![Screenshot Pertemuan 03](https://github.com/aqsarizik/Tugas-PBO-A-AqsaIbnuRizik-4525210103/blob/main/tugas%201/screenshots/03.png?raw=true)
 
 ---
 
@@ -44,7 +44,7 @@ Berisi hasil konversi program dari Java ke PHP pada Pertemuan 04.
 
 ### Screenshot Output
 
-![Screenshot Pertemuan 04](04.png)
+![Screenshot Pertemuan 04](https://github.com/aqsarizik/Tugas-PBO-A-AqsaIbnuRizik-4525210103/blob/main/tugas%201/screenshots/04.png?raw=true)
 
 ---
 
@@ -54,7 +54,7 @@ Berisi hasil konversi program dari Java ke PHP pada Pertemuan 05.
 
 ### Screenshot Output
 
-![Screenshot Pertemuan 05](05.png)
+![Screenshot Pertemuan 05](https://github.com/aqsarizik/Tugas-PBO-A-AqsaIbnuRizik-4525210103/blob/main/tugas%201/screenshots/05.png?raw=true)
 
 ---
 
@@ -63,7 +63,7 @@ Berisi hasil konversi program dari Java ke PHP pada Pertemuan 05.
 Berisi hasil konversi program dari Java ke PHP pada Pertemuan 06.
 
 ### Screenshot Output
-![Screenshot Pertemuan 06](06.png)
+![Screenshot Pertemuan 06](https://github.com/aqsarizik/Tugas-PBO-A-AqsaIbnuRizik-4525210103/blob/main/tugas%201/screenshots/06.png?raw=true)
 
 ---
 
