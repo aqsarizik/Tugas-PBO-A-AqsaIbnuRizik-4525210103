@@ -14,7 +14,7 @@ Berisi hasil konversi program dari Java ke PHP pada Pertemuan 01.
 
 ### Screenshot Output
 
-![Screenshot Pertemuan 01]((https://github.com/aqsarizik/Tugas-PBO-A-AqsaIbnuRizik-4525210103/blob/main/tugas%201/screenshots/01.png)?raw=true)
+![Screenshot Pertemuan 01](https://github.com/aqsarizik/Tugas-PBO-A-AqsaIbnuRizik-4525210103/blob/main/tugas%201/screenshots/01.png?raw=true)
 
 ---
 
